@@ -43,7 +43,7 @@ See <i>/help</i> for commands and more details.</b>
 
 /status  -  Shows current status of your bot (Auth User Only)
 
-/id  -  Shows ID information
+/id  -  Shows User Id
 
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
