@@ -87,6 +87,13 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken]
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/navaneethrkrishna/Unlimited-Filter-Bot)
 
+
+## Deploy To Heroku
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fnavaneethrkrishna%2FUnlimited-Filter-Bot&envs=TG_BOT_TOKEN%2CAPI_ID%2CAPI_HASH%2CAUTH_USERS%2CDATABASE_URI&TG_BOT_TOKENDesc=Get+bot+token+from+%40BotFather&API_IDDesc=From+my.telegram.org+%28or+%40UseTGXBot%29&API_HASHDesc=From+my.telegram.org+%28or+%40UseTGXBot%29&AUTH_USERSDesc=OWNER+ID&DATABASE_URIDesc=Mongo+Database+URL+from+https%3A%2F%2Fcloud.mongodb.com%2F)
+
+
+
+
 ### Deploy in your vps
 ```sh
 git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
